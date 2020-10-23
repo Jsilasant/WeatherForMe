@@ -15,6 +15,8 @@
         android:text="0 %"
         android:textSize="25sp"
         android:id="@+id/text_view"
+        android:textColor="@color/colorPrimary"
+        android:textColorHighlight="@color/colorPrimaryDark"
         android:layout_centerHorizontal="true"
         android:layout_above="@id/progress_bar"
 
